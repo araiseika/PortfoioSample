@@ -6,7 +6,7 @@ Portfolio Sample
 ## デモ
 [Webサイトを見る](https://portfolio-sample-seikaarai.herokuapp.com/)
 
-![スクリーンショット](https://user-images.githubusercontent.com/85447478/123637418-f68ba280-d858-11eb-9179-159a00d1ee28.jpg)
+![image](https://user-images.githubusercontent.com/85447478/123810787-a599ae00-d92d-11eb-9598-fa6ddbd54ead.png)
 
 ## 利用している技術
 HTML / CSS
